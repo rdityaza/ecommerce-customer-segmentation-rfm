@@ -10,6 +10,7 @@ An end-to-end data science portfolio project that transforms raw e-commerce tran
 ---
 
 ## Project Structure
+```
 ├── data/
 │   ├── raw/                    # Raw dataset (not tracked by git)
 │   │   └── ecommerce.csv
@@ -25,6 +26,7 @@ An end-to-end data science portfolio project that transforms raw e-commerce tran
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -136,7 +138,9 @@ pip install -r requirements.txt
 **4. Download the dataset**
 
 Download `data.csv` from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data) and place it at:
+```bash
 data/raw/ecommerce.csv
+```
 
 **5. Run notebooks in order**
 ```bash
