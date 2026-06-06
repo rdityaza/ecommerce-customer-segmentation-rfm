@@ -7,6 +7,8 @@
 
 An end-to-end data science portfolio project that transforms raw e-commerce transaction data into actionable business insights using **RFM Segmentation** and **Market Basket Analysis**.
 
+> **📊 [LIVE DASHBOARD: Interactive Customer Retention & Cross-Selling Tableau](https://public.tableau.com/app/profile/raditya.zaki.athaya/viz/ECommerce_RFM_MBA_Dashboard/Dashboard2?publish=yes)**
+
 ---
 
 ## Project Structure
